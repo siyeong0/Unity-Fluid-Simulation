@@ -1,4 +1,4 @@
-# Linda Fluid
+# Unity-Fluid-Simulation
 
 GPU-accelerated fluid and soft body simulation in Unity.
 
@@ -20,3 +20,4 @@ GPU-accelerated fluid and soft body simulation in Unity.
 ## Sample
 
 ![SPH-sample](https://github.com/user-attachments/assets/58bc0617-4859-4700-b0e7-b4f9da3ad9b1)
+
